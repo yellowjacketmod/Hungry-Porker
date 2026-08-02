@@ -3,5 +3,5 @@
   "type": "character",
   "waytoplayon": "feed&pump",
   "imagesrc": "unit porker.jpg",
-  "pumplimit": "19",
+  "pumplimit": 19,
 }
